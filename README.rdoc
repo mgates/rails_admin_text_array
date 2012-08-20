@@ -1,0 +1,4 @@
+= RailsAdminTextArray
+
+This project adds text_array support to rails_admin and uses MIT-LICENSE.
+It's just the scaffold for it, but I'd be open to adding editing abilities.
